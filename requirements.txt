@@ -25,3 +25,4 @@ twilio
 urllib3
 Werkzeug
 wrapt
+openai
